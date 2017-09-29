@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+Clustering_Documentation_Example.ipynb
+K-Means_Clustering_Code_Along.ipynb
+derby.log
+metastore_db/*
+seeds_dataset.csv
+seeds_dataset.txt
+sample_kmeans_data.txt
